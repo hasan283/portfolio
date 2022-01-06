@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Playfair Display', serif;
+}
+img{
+    max-width: 100%;
+}
+
+/* Header Section  */
+/* Header Section  */
+/* Header Section  */
+.header{
+    display: flex;
+    padding-left: 5%;
+    padding-top: 7%;
+}
+.header .header-content{
+    width: 50%;
+}
+.header .header-content .header-left-title{
+    border-left: 5px solid orange;
+    margin-top: 5%;
+    padding-right: 5%;
+}
+.header .header-content .header-left-title h1{
+    font-size: 50px;
+    padding-left: 10px;
+}
+.header-left-title .text-tomato{
+    color: tomato;
+}
+.header .header-content  p{
+    font-size: 18px;
+    padding-top: 22px;
+    margin-bottom: 25px;
+}
+.header .header-content p span{
+    color: red;
+    font-weight: 600;
+}
+.header .header-content a{
+    background-color: tomato;
+    padding: 10px 40px;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 7px;
+}
+.header .header-content img{
+    width: 80%;
+    padding-left: 5%;
+}
+
+
+/* Mossion section  */
+/* Mossion section  */
+/* Mossion section  */
+.mission .mission-title h1 {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.mission .mission-title h1 span{
+    color: tomato;
+}
+.mission-content{
+    display: flex;
+    padding-left: 5%;
+}
+.mission-left{
+    width: 28%;
+    background-color: #ffeeee;
+    margin-left: 3%;
+}
+.mission-center{
+    width: 28%;
+    background-color: #edf5f6;
+    margin-left: 3%;
+}
+.mission-right{
+    width: 28%;
+    background-color: #ffeeee;
+    margin-left: 3%;
+}
+
+
+
+
+
+
+
+
+
+
+footer{
+    font-family: 'Dancing Script', cursive;
+}
