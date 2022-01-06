@@ -29,6 +29,7 @@ img{
 .header .header-content .header-left-title h1{
     font-size: 50px;
     padding-left: 10px;
+    font-weight: bold;
 }
 .header-left-title .text-tomato{
     color: tomato;
@@ -66,6 +67,7 @@ img{
     text-align: center;
     padding-top: 5%;
     padding-bottom: 5%;
+    font-weight: bold;
 }
 .mission .mission-title h1 span{
     color: tomato;
@@ -133,6 +135,98 @@ img{
 }
 
 
+
+
+/* Develop section  */
+/* Develop section  */
+/* Develop section  */
+.develop{
+    display: flex;
+    margin-top: 5%;
+    padding-left: 5%;
+}
+.develop .left-bg{
+   background-image: url(./images/shape-1.png);
+   background-repeat: no-repeat;
+   background-size: 300px;
+   background-position: left;
+}
+.develop-content{
+    width: 50%;
+}
+.develop-content img{
+    width: 70%;
+    margin-left: 20%;
+}
+.develop-content .develop-title{
+    padding-top: 15%;
+    padding-right: 10%;
+}
+.develop-content .develop-title h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.develop-content .develop-title p{
+    font-size: 18px;
+    padding-top: 15px;
+    color: #626262;
+    margin-bottom: 5%;
+}
+.develop-content .develop-title a{
+    background-color: tomato;
+    padding: 10px 40px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+}
+
+
+/* Community section  */
+/* Community section  */
+/* Community section  */
+.community{
+    display: flex;
+    margin-top: 7%;
+    padding-left: 5%;
+    padding-right: 2%;
+}
+.community .right-bg{
+   background-image: url(./images/shape-1.png);
+   background-repeat: no-repeat;
+   background-size: 200px;
+   background-position: right bottom;
+}
+.community-content{
+    width: 50%;
+}
+.community-content img{
+    width: 70%;
+    margin-left: 20%;
+}
+.community-content .community-title{
+    padding-top: 15%;
+    padding-right: 10%;
+    margin-left: 20%;
+}
+.community-content .community-title h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.community-content .community-title p{
+    font-size: 18px;
+    padding-top: 18px;
+    color: #626262;
+    margin-bottom: 5%;
+}
+.community-content .community-title a{
+    background-color: tomato;
+    padding: 10px 40px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+}
 
 
 
