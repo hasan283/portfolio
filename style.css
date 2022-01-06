@@ -81,6 +81,7 @@ img{
     background-color: #ffeeee;
     margin-left: 3%;
     padding: 20px 15px;
+    border-radius: 10px;
 }
 .mission-left .left-img img{
     width: 120px;
@@ -100,6 +101,7 @@ img{
     background-color: #edf5f6;
     margin-left: 3%;
     padding: 20px 15px;
+    border-radius: 10px;
 }
 .mission-center .center-img img{
     width: 120px;
@@ -119,6 +121,7 @@ img{
     background-color: #ffeeee;
     margin-left: 3%;
     padding: 20px 15px;
+    border-radius: 10px;
 }
 .mission-right .right-img img{
     width: 120px;
