@@ -228,12 +228,82 @@ img{
     border-radius: 5px;
 }
 
+/* Corona Section  */
+/* Corona Section  */
+/* Corona Section  */
+.portfolio{
+    margin-top: 5%;
+}
+.portfolio .portfolio-title h1{
+    font-size: 50px;
+    text-align: center;
+}
+.portfolio .portfolio-title h1 span {
+    color: tomato;
+}
+.portfolio-sec{
+    display: flex;
+    padding-left: 15%;
+    margin-top: 5%;
+}
+
+.portfolio-content{
+    width: 50%;
+    padding-right: 2%;
+}
+.portfolio-content img{
+    width: 350px;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+}
+.portfolio-sec .portfolio-content h1{
+    font-size: 35px;
+}
+.portfolio-sec .portfolio-content .title{
+    margin-top: 10%;
+}
+.portfolio-sec .portfolio-content h1 span{
+    color: tomato;
+}
+.portfolio-sec .portfolio-content p{
+    font-size: 18px;
+    padding-top: 18px;
+    color: #626262;
+    margin-bottom: 5%;
+}
+.portfolio-sec .portfolio-content a{
+    background-color: tomato;
+    padding: 10px 40px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+}
 
 
 
-
-
-
+/* Footer section  */
+/* Footer section  */
+/* Footer section  */
 footer{
+    background-color: #0b0d17;
+    padding: 30px 0;
+    margin-top: 5%;
+}
+footer h1{
     font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+}
+footer h1 span{
+    color: tomato;
+    font-family: 'Playfair Display', serif;
+}
+footer p{
+    text-align: center;
+    font-size: 14px;
+    color: #ddd;
+    margin-top: 10px;
 }
